@@ -3,4 +3,5 @@ class Demo:
         print("Demo fun")
 
 Demo.fun()
+Demo.gun()
 
